@@ -1,0 +1,8 @@
+Flask==2.2.3
+Flask-SocketIO==5.2.0
+transformers==4.31.0
+torch==2.0.0
+sklearn==1.2.2
+pandas==1.5.3
+SQLAlchemy==2.0.0
+psycopg2-binary==2.9.5
